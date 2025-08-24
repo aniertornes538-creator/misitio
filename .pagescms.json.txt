@@ -1,0 +1,12 @@
+{
+  "collections": {
+    "blog": {
+      "path": "content/blog",
+      "extension": "md"
+    },
+    "pages": {
+      "path": "content",
+      "extension": "md"
+    }
+  }
+}
